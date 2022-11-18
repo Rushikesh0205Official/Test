@@ -2,6 +2,7 @@ package com.javatpoint.bean;
 
 public class User {
 private int id;
+private int number;
 private String name,password,email,sex,country;
 public int getId() {
 	return id;
